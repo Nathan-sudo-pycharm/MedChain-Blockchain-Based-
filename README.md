@@ -1,6 +1,6 @@
-NOTE: This web app run ' locally' meaning its not global.
+NOTE: This web app run ' locally' meaning its not global.<br>
 For queries in respect to running the code .Contact:+91 7259733446
-
+<br> Python Version: 3.9
 <h1>Blockchain-based-File-Storage</h1>
 
 
