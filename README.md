@@ -1,3 +1,6 @@
+NOTE: This web app run ' locally' meaning its not global.
+For queries in respect to running the code .Contact:+91 7259733446
+
 <h1>Blockchain-based-File-Storage</h1>
 
 
